@@ -57,13 +57,13 @@ I'm a forward-thinking technology architect specializing in Business Intelligenc
 
 ## 🔬 **Research**
 
- - 2025 – TheLittleBaby: Barebones GPT-style implementation in pure Python, zero dependencies Focus: LLM architecture, minimal AI design
- - 2022 – Automated Machine Learning with Sampling Techniques Focus: AutoML optimization, data preprocessing strategies
- - 2021 – Comparison of Machine Learning Methods for Predicting Vehicle Opportunities Focus: Predictive analytics in automotive sales
- - 2021 – Comparison of Machine Learning Methods for Predicting Service Opportunities Focus: Classification models for service forecasting
- - 2021 – Comparison of Machine Learning Methods for Predicting CRM Opportunities Focus: Regression and clustering in customer relationship management
- - 2016 – Session Hijacking and Techniques Focus: Network security, vulnerability exploitation
- - 2015 – Recommendation Systems and Techniques Focus: Collaborative filtering, ranking algorithms
+ - 2025 – Barebones GPT-style implementation in pure Python, zero dependencies | minimal transformer architecture
+ - 2022 – Automated Machine Learning with Sampling Techniques | AutoML optimization, data preprocessing strategies | [Link](https://dione.lib.unipi.gr/xmlui/handle/unipi/14201)
+ - 2021 – Comparison of Machine Learning Methods for Predicting Vehicle Opportunities | Predictive analytics in automotive sales | [Link](https://www.researchgate.net/publication/351049460_Comparison_of_Machine_Learning_Methods_for_predicting_Vehicle_Opportunities)
+ - 2021 – Comparison of Machine Learning Methods for Predicting Service Opportunities | Classification models for service forecasting | [Link](https://www.researchgate.net/publication/350581135_Comparison_of_Machine_Learning_Methods_for_predicting_Service_Opportunities)
+ - 2021 – Comparison of Machine Learning Methods for Predicting CRM Opportunities | Regression and clustering in customer relationship management | [Link](https://www.researchgate.net/publication/349883137_Comparison_of_Machine_Learning_Methods_for_predicting_CRM_Opportunities)
+ - 2016 – Session Hijacking and Techniques | Network security, vulnerability exploitation
+ - 2015 – Recommendation Systems and Techniques | Collaborative filtering, ranking algorithms
 
 
 ## 📜 **Certifications**

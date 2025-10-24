@@ -110,88 +110,88 @@ Welcome to a curated showcase of my most recognized and impactful projects. This
 
 ### 🧠 GenAI Models
 
-| Date     | Project        | Role       | Description                                       |
-|----------|----------------|------------|---------------------------------------------------|
-| 01/2025  | TheLittleBaby  | Freelancer | Barebones GPT-style implementation in pure Python |
+| Date     | Project        | Role       | Description                                                     | Status       | Maintenance    |
+|----------|----------------|------------|-----------------------------------------------------------------|--------------|----------------|
+| 01/2025  | TheLittleBaby  | Freelancer | Barebones GPT-style implementation in pure Python               | Online       | Maintained     |
 
 
 ### 📚 Libraries
 
-| Date     | Library          | Role       | Technologies                                        |
-|----------|------------------|------------|-----------------------------------------------------|
-| 01/2023  | SQLServerEzApi   | Freelancer | sqlserver, ssis, package, dtsx                      |
-| 01/2022  | AutoMLWrapper    | Freelancer | classification, regression, preprocessing, modeling |
+| Date     | Library          | Role       | Technologies                                                  | Status      | Maintenance    |
+|----------|------------------|------------|---------------------------------------------------------------|-------------|----------------|
+| 01/2023  | SQLServerEzApi   | Freelancer | sqlserver, ssis, package, dtsx                                | Online      | Maintained     |
+| 01/2022  | AutoMLWrapper    | Freelancer | classification, regression, preprocessing, modeling           | Online      | Maintained     |
 
 ### 🧩 Solutions
 
-| Date     | Solution                          | Company   | Technologies                                 |
-|----------|-----------------------------------|-----------|----------------------------------------------|
-| 01/2023  | ConsolidatedReporting-FrontOffice | Incadea   | blazor, cloud, powerbi, chatgpt              |
-| 01/2022  | ConsolidatedReporting-BackOffice  | Incadea   | blazor, cloud, postgresql, kubernetes        |
-| 01/2021  | Documentation-Unit                | Incadea   | blazor, cloud, openai, opensearch            |
-| 01/2020  | Anonymization-Unit                | Incadea   | blazor, cloud, postgresql                    |
-| 01/2019  | Data Services                     | Incadea   | sql-server, wpf, on-premises                 |
+| Date     | Solution                          | Company   | Technologies                                  | Status       | Maintenance    |
+|----------|-----------------------------------|-----------|-----------------------------------------------|--------------|----------------|
+| 01/2023  | ConsolidatedReporting-FrontOffice | Incadea   | blazor, cloud, powerbi, chatgpt               | Online       | Maintained     |
+| 01/2022  | ConsolidatedReporting-BackOffice  | Incadea   | blazor, cloud, postgresql, kubernetes         | Online       | Maintained     |
+| 01/2021  | Documentation-Unit                | Incadea   | blazor, cloud, openai, opensearch             | Online       | Maintained     |
+| 01/2020  | Anonymization-Unit                | Incadea   | blazor, cloud, postgresql                     | Online       | Maintained     |
+| 01/2019  | Data Services                     | Incadea   | sql-server, wpf, on-premises                  | Online       | Maintained     |
 
 
 ### 📊 Data Models
 
-| Date     | Model Name         | Company   | Domain & Technologies                           |
-|----------|--------------------|-----------|-------------------------------------------------|
-| 01/2020  | Incadea.dms        | Incadea   | sql, analysis, parts, service, vehicle          |
-| 01/2020  | Incadea.fastfit    | Incadea   | sql, analysis, tire, automotive                 |
-| 01/2017  | PerformanceCube    | Incadea   | sql, analysis, statistics, indexes, connections |
-| 04/2015  | QueryStoreCube     | Incadea   | sql, analysis, read/write, queries, memory      |
+| Date     | Model Name         | Company   | Technologies                                                 |Status        | Maintenance    |
+|----------|--------------------|-----------|--------------------------------------------------------------|--------------|----------------|
+| 01/2020  | Incadea.dms        | Incadea   | sql, analysis, parts, service, vehicle                       | Online       | Maintained     |
+| 01/2020  | Incadea.fastfit    | Incadea   | sql, analysis, tire, automotive                              | Online       | Maintained     |
+| 01/2017  | PerformanceCube    | Incadea   | sql, analysis, statistics, indexes, connections              | Online       | Maintained     |
+| 04/2015  | QueryStoreCube     | Incadea   | sql, analysis, read/write, queries, memory                   | Online       | Maintained     |
 
 
 ### 🖥️ Desktop Software
 
-| Date     | Project          | Role       | Technologies                                  |
-|----------|------------------|------------|-----------------------------------------------|
-| 10/2015  | DigitalCodec     | Freelancer | wpf, convert, type, container, video, audio   |
-| 04/2015  | DigitalReserver  | Freelancer | wpf, reserve, language, permission, statics   |
-| 02/2015  | DigitalWaiter    | Freelancer | wpf, catalog, language, permission, statics   |
+| Date     | Project          | Role       | Technologies                                                  | Status       | Maintenance    |
+|----------|------------------|------------|---------------------------------------------------------------|--------------|----------------|
+| 10/2015  | DigitalCodec     | Freelancer | wpf, convert, type, container, video, audio                   | Offline      | Not Maintained |
+| 04/2015  | DigitalReserver  | Freelancer | wpf, reserve, language, permission, statics                   | Offline      | Not Maintained |
+| 02/2015  | DigitalWaiter    | Freelancer | wpf, catalog, language, permission, statics                   | Offline      | Not Maintained |
 
 ### 📱 Mobile Software – Windows Phone Marketplace
 
-| Date     | App Name         | Role       | Identifier                                    |
-|----------|------------------|------------|-----------------------------------------------|
-| 09/2013  | Social Unlocker  | Freelancer | bbd22460-1996-4f00-a516-d1c1abd1eaf4          |
-| 05/2013  | Ringit           | Freelancer | 11e2156b-ebc2-4c3e-a391-03e6d4352779          |
-| 11/2012  | Jokes For Laughs | Freelancer | 835db752-4b42-44f0-bd88-019877bba307          |
-| 08/2012  | Social Unlock    | Freelancer | 43f2ce5b-d53a-4d26-ace4-2381a8d41738          |
-| 06/2012  | Machine Gun      | Freelancer | 340d66e2-dcfd-46c6-845f-a9878ead69d2          |
+| Date     | App Name         | Role       | Identifier                                                    | Status       | Maintenance    |
+|----------|------------------|------------|---------------------------------------------------------------|--------------|----------------|
+| 09/2013  | Social Unlocker  | Freelancer | bbd22460-1996-4f00-a516-d1c1abd1eaf4                          | Offline      | Not Maintained |
+| 05/2013  | Ringit           | Freelancer | 11e2156b-ebc2-4c3e-a391-03e6d4352779                          | Offline      | Not Maintained |
+| 11/2012  | Jokes For Laughs | Freelancer | 835db752-4b42-44f0-bd88-019877bba307                          | Offline      | Not Maintained |
+| 08/2012  | Social Unlock    | Freelancer | 43f2ce5b-d53a-4d26-ace4-2381a8d41738                          | Offline      | Not Maintained |
+| 06/2012  | Machine Gun      | Freelancer | 340d66e2-dcfd-46c6-845f-a9878ead69d2                          | Offline      | Not Maintained |
 
 ### 📱 Mobile Software – Android Google Market
 
-| Date     | App Name                   | Role       | Identifier                                       |
-|----------|----------------------------|------------|--------------------------------------------------|
-| 06/2012  | Machine Gun                | Freelancer | com.docteam.machinegun                           |
-| 06/2012  | Random Number Generator    | Freelancer | com.docteam.randomnumbergenerator                |
-| 05/2012  | Wallpaper Picker           | Freelancer | com.docteam.wallpaperpicker                      |
-| 05/2012  | Exotic Sea With Butterflies| Freelancer | com.docteam.exoticsea                            |
+| Date     | App Name                   | Role       | Identifier                                          | Status       | Maintenance    |
+|----------|----------------------------|------------|-----------------------------------------------------|--------------|----------------|
+| 06/2012  | Machine Gun                | Freelancer | com.docteam.machinegun                              | Offline      | Not Maintained |
+| 06/2012  | Random Number Generator    | Freelancer | com.docteam.randomnumbergenerator                   | Offline      | Not Maintained |
+| 05/2012  | Wallpaper Picker           | Freelancer | com.docteam.wallpaperpicker                         | Offline      | Not Maintained |
+| 05/2012  | Exotic Sea With Butterflies| Freelancer | com.docteam.exoticsea                               | Offline      | Not Maintained |
 
 ### 🌐 Web Software (Personal Webserver)
 
-| Date     | URL                                | Role        | Domain Description                               |
-|----------|-------------------------------------|------------|--------------------------------------------------|
-| 12/2023  | http://bovisapartments.gr           | Freelancer | real estate, houses, vacations                   |
-| 02/2020  | http://nailzstuff.com               | Freelancer | eshop, nails, feet, beauty                       |
-| 09/2016  | http://hrefquard.com                | Freelancer | scan, vulnerabilities                            |
-| 03/2016  | http://www.magkocafe.gr             | Freelancer | restaurant, coffee, bar                          |
-| 10/2015  | http://www.colorcopy3d.gr           | Freelancer | printers, printings, material                    |
-| 02/2015  | http://www.besttimes.gr             | Freelancer | wedding, baptism, events                         |
-| 12/2014  | http://www.koureas-service.com      | Freelancer | workshop, car, moto                              |
-| 08/2014  | http://www.creasense.gr             | Freelancer | portfolio, graphic design                        |
-| 04/2014  | http://www.bastateam.gr             | Websoft    | building, design portfolio                       |
-| 03/2014  | http://www.dunamimarkopoulou.com    | Freelancer | athletic center                                  |
-| 02/2014  | http://www.websoft.gr               | Websoft    | software, hardware portfolio                     |
-| 01/2014  | http://www.filosrennsport.com       | Freelancer | workshop, accessories, parts                     |
-| 12/2013  | http://www.equaltune.com            | Freelancer | multimedia search                                |
-| 11/2013  | http://www.servante.gr              | Freelancer | restaurant, coffee, bar                          |
-| 02/2013  | http://www.vreszestasia.com         | Freelancer | shopping, woods, stoves, fireplaces              |
-| 08/2012  | http://www.villavravrona.com        | Freelancer | house, home, extras                              |
-| 02/2011  | http://www.loven.gr                 | Freelancer | restaurant, coffee, bar                          |
-| 12/2010  | http://www.tapanta.infe             | Freelancer | multimedia, publishing, advertising, SEO         |
+| Date     | URL                                 | Role       | Domain Description                         | Status       | Maintenance    |
+|----------|-------------------------------------|------------|--------------------------------------------|--------------|----------------|
+| 12/2023  | http://bovisapartments.gr           | Freelancer | real estate, houses, vacations             | Online       | Maintained     |
+| 02/2020  | http://nailzstuff.com               | Freelancer | eshop, nails, feet, beauty                 | Offline      | Not Maintained |
+| 09/2016  | http://hrefquard.com                | Freelancer | scan, vulnerabilities                      | Offline      | Not Maintained |
+| 03/2016  | http://www.magkocafe.gr             | Freelancer | restaurant, coffee, bar                    | Offline      | Not Maintained |
+| 10/2015  | http://www.colorcopy3d.gr           | Freelancer | printers, printings, material              | Offline      | Not Maintained |
+| 02/2015  | http://www.besttimes.gr             | Freelancer | wedding, baptism, events                   | Internalized | Not Maintained |
+| 12/2014  | http://www.koureas-service.com      | Freelancer | workshop, car, moto                        | Online       | Not Maintained |
+| 08/2014  | http://www.creasense.gr             | Freelancer | portfolio, graphic design                  | Offline      | Not Maintained |
+| 04/2014  | http://www.bastateam.gr             | Websoft    | building, design portfolio                 | Internalized | Not Maintained |
+| 03/2014  | http://www.dunamimarkopoulou.com    | Freelancer | athletic center                            | Online       | Not Maintained |
+| 02/2014  | http://www.websoft.gr               | Websoft    | software, hardware portfolio               | Internalized | Not Maintained |
+| 01/2014  | http://www.filosrennsport.com       | Freelancer | workshop, accessories, parts               | Internalized | Not Maintained |
+| 12/2013  | http://www.equaltune.com            | Freelancer | multimedia search                          | Offline      | Not Maintained |
+| 11/2013  | http://www.servante.gr              | Freelancer | restaurant, coffee, bar                    | Offline      | Not Maintained |
+| 02/2013  | http://www.vreszestasia.com         | Freelancer | shopping, woods, stoves, fireplaces        | Offline      | Not Maintained |
+| 08/2012  | http://www.villavravrona.com        | Freelancer | house, home, extras                        | Offline      | Not Maintained |
+| 02/2011  | http://www.loven.gr                 | Freelancer | restaurant, coffee, bar                    | Offline      | Not Maintained |
+| 12/2010  | http://www.tapanta.info             | Freelancer | multimedia, publishing, advertising, SEO   | Offline      | Not Maintained |
 
 
 Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration.

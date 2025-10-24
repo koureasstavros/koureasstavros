@@ -3,7 +3,7 @@
 I'm a forward-thinking technology architect specializing in Business Intelligence and Artificial Intelligence solutions. With over a decade of experience spanning full-stack engineering, data modeling, and platform architecture, I transform complex data challenges into scalable, cost-efficient systems. My work bridges enterprise reporting, cloud-native integrations, and autonomous analytics platforms—always with a focus on clarity, performance, and impact.
 
 
-## 🎓 Education
+## 🎓 **Education**
 
 - 🎓 **MSc in Artificial Intelligence, Big Data & Analytics**  
   University of Piraeus, 2020–2022
@@ -15,74 +15,77 @@ I'm a forward-thinking technology architect specializing in Business Intelligenc
   General High School of Markopoulo, 2006–2009
 
 
-## 💼 Experience
+## 💼 **Experience**
 
-### 1.1. **Senior Product Architect BI/AI**
-**Incadea (Volaris Group)** | Jan 2023 – Present
+### 1.1 **Senior Product Architect BI/AI** | Incadea (Volaris Group) | Jan 2023 – Present
 - 🧠 Architected a full-scale **Data Factory Platform** for real-time analytics and seamless production-to-warehouse flow and deployments (uses AI for chatting with the data)
 - 🔐 Engineered a **Anonymization Tool** targeting universal database schemas for secure demo / testing environments (uses AI for identifying sensitive tables and fields)
 - 📚 Engineered a **Documentation Tool** integrating Confluence, JIRA, ADO, Sharepoint and Git into RAG for traceable reporting (uses AI for embeddings and chatting)
 - 📊 Transformed static reporting into **agentic, self-optimizing analytics** with custom Power BI visuals (uses AI for training and predictions)
 - 🧑‍🤝‍🧑 Led the BI/AI team, contributed to SQL Server/PostgreSQL communities, and maintained GitHub/PyPI packages for data management
 
-### 1.2. **Product Architect BI/AI**
-**Incadea (Volaris Group)** | Jan 2019 – Dec 2022
+### 1.2 **Product Architect BI/AI** | Incadea (Volaris Group) | Jan 2019 – Dec 2022
 - ⚡ Rebuilt the corporate data loading engine with **EzApi**, boosting performance and flexibility
 - 🧩 Introduced **GUID-based table structures** and modular NAV data models (BaseApp / FeatureApp)
 - 🧭 Aligned architecture with business vision, led development teams, and ensured roadmap execution
 
-### 1.3. **Data Modeler**
-**Incadea (Cox Automotive)** | Nov 2016 – Dec 2018
-- 🧱 Designed relational and analytical data models for global automotive clients
+### 1.3 **Data Modeler** | Incadea (Cox Automotive) | Nov 2016 – Dec 2018
+- 🧱 Crafted relational and analytical data models for global automotive clients
 - 🔄 Enhanced ETL pipelines and query performance aligned with business objectives
 - 📈 Delivered dynamic reports and unified internal systems with bespoke reporting solutions
 
-### 2. **FullStack Engineer**
-**Greek Military** | Nov 2015 – Oct 2016
+### 2 **FullStack Engineer** | Greek Military | Nov 2015 – Oct 2016
 - 🛡️ Built secure internal administration software using free tools and custom WPF interfaces
 - 🧮 Managed database design, performance tuning, and network protocols
 
-### 3.1 **Web Engineer**
-**Websoft S.A.** | Nov 2014 – Oct 2015
+### 3.1 **Web Engineer** | Websoft S.A. | Nov 2014 – Oct 2015
 - 🌐 Designed and developed tailored websites for retail clients using open-source platforms
 - 🎨 Led collaborative redesign initiatives between designers and developers
 
-### 3.2. **Software Engineer**
-**Websoft S.A.** | Jan 2014 – Oct 2014
+### 3.2 **Software Engineer** | Websoft S.A. | Jan 2014 – Oct 2014
 - 🖥️ Designed and developed user-friendly desktop applications for retail environments
 - 📈 Managed software projects and enhanced UX through feedback-driven iterations
 
-### 3.3. **Developer Assistant**
-**Websoft S.A.** | Nov 2013 – Dec 2013
+### 3.3 **Developer Assistant** | Websoft S.A. | Nov 2013 – Dec 2013
 - 🔄 Supported system migrations and third-party control integrations
 - 📋 Managed documentation and evaluated new technologies 
 
-### 4. **Freelance Engineer**
-**Doc-Team** | Dec 2010 – Oct 2013
+### 4 **Freelance Engineer** | Doc-Team | Dec 2010 – Oct 2013
 - 🛠️ Delivered custom software desktop/mobile/web apps across diverse industries
 - 🧭 Provided training, support, and critical decision-making under pressure
 
 
-## 📜 Certifications
+## 🔬 **Research**
 
-1. 🧠 Fabric Analytics Engineer Associate – 4A94F7-03BRD7 (2025)
-2. 🧠 Fabric Data Engineer Associate – 34DAC1-95AID2 (2025)
-3. 🤖 Azure AI Engineer Associate – C9121D-EE4704 (2021)
-4. ☁️ Azure Administrator Associate – F116E3-44D4D2 (2020)
-5. 📊 Azure Data Scientist Associate – B5E698-67SA18 (2020)
-6. 📈 MCSA in BI Reporting – H219-5454 (2019)
-7. 🧮 MCSE in Data Management & Analytics – G907-5319 (2018)
-8. 🧮 MCSA in Business Intelligence Development – G840-2196 (2018)
-9. 🧑‍💻 Microsoft Certified Professional (MCP) – G797-7541 (2018)
+ - 2025 – TheLittleBaby: Barebones GPT-style implementation in pure Python, zero dependencies Focus: LLM architecture, minimal AI design
+ - 2022 – Automated Machine Learning with Sampling Techniques Focus: AutoML optimization, data preprocessing strategies
+ - 2021 – Comparison of Machine Learning Methods for Predicting Vehicle Opportunities Focus: Predictive analytics in automotive sales
+ - 2021 – Comparison of Machine Learning Methods for Predicting Service Opportunities Focus: Classification models for service forecasting
+ - 2021 – Comparison of Machine Learning Methods for Predicting CRM Opportunities Focus: Regression and clustering in customer relationship management
+ - 2016 – Session Hijacking and Techniques Focus: Network security, vulnerability exploitation
+ - 2015 – Recommendation Systems and Techniques Focus: Collaborative filtering, ranking algorithms
 
 
-## 🌐 Languages
+## 📜 **Certifications**
+
+ - 2025 – 4A94F7-03BRD7 - Fabric Analytics Engineer Associate
+ - 2025 – 34DAC1-95AID2 - Fabric Data Engineer Associate
+ - 2021 – C9121D-EE4704 - Azure AI Engineer Associate
+ - 2020 – F116E3-44D4D2 - Azure Administrator Associate
+ - 2020 – B5E698-67SA18 - Azure Data Scientist Associate
+ - 2019 – H219-5454 - MCSA in BI Reporting
+ - 2018 – G907-5319 - MCSE in Data Management & Analytics
+ - 2018 – G840-2196 - MCSA in Business Intelligence Development
+ - 2018 – G797-7541 - MCP in Microsoft Certified Professional
+
+
+## 🌐 **Languages**
 
 - Greek – Native
 - English – Good Knowledge
 
 
-## 🎒 Portfolio
+## 🎒 **Portfolio**
 
 Welcome to a curated showcase of my most recognized and impactful projects. This portfolio reflects over a decade of hands-on engineering, architectural design, and innovation across diverse industries—from enterprise data platforms and autonomous reporting systems to desktop, mobile apps and full-stack web solutions.
 
